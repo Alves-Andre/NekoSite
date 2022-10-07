@@ -90,5 +90,4 @@ O usuário “Prestador de serviços” poderá criar, editar e excluir serviço
 Em cada alteração que compromete um agendamento realizada por alguma das partes envolvidas, acontecerá um envio de notificação para as partes afetadas.
 </li>
 
-
-</ul>thiagolindo
+</ul>
