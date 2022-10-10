@@ -8,16 +8,43 @@
     <link rel="stylesheet" href="styles/style.css">
     <title>Neko</title>
 </head>
-<nav> teste </nav>
+<nav class="nav-bar">
+    <img id="logo" src="/Images/Logos/new logo 6.png">
+    <div class="items-left">
+        <div class="nav-items">Cabelo</div>
+        <div class="nav-items">Barba</div>
+        <div class="nav-items">Unha</div>
+        <div class="nav-items">Sobrancelhas e cílios</div>
+        <div class="nav-items">Maquiagem</div>
+        <div class="nav-items">Estética</div>
+        <div class="nav-items">Outros</div>
+    </div>
+
+    <div class="items-right">
+        <div class="inicio">
+
+        </div>
+        <div class="agendamentos">
+
+        </div>
+    </div>
+    
+</nav>
 
 <body>
     <div class="filtros">
         <div id="categoria">
-            
+            <select id="ordenar">
+                <option value="distancia"> Distância </option>
+                <option value="avaliacao"> Avaliação </option>
+                <option value="asc"> Asc </option>
+                <option value="desc"> Desc </option>
+            </select>
+
         </div>
         <div id="busca">
             <input type="text" id="campobusca" name="Pesquisar" value="Pesquisar" onfocus="if (this.value=='Pesquisar') this.value='';" onblur="if (this.value=='') this.value='Pesquisar'" />
-            <div id="div-search">
+            <div id="div-search" class="noanimation">
                 <img id="icon-search" src="/Images/search-interface-symbol.png">
             </div>
         </div>
@@ -31,6 +58,16 @@
             <div class="descricao">
                 <h2 class="barberTitle">Barber Name</h2>
                 <p class="adress"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem quasi saepe. </p>
+            <div class="rodape">    
+                <div class="classificacao">
+                    <img src="/Images/star.png" class="icon-star" value="estrela" name="ëstrela">
+                    <label for="estrela">4,9</label>
+                </div>
+                <div class="distancia">
+                    <img src="/Images/localizacao.png" name="localiza" class="icon-localizacao">
+                    <label for="localiza" class="text-localiza">2,4 KM</label>
+                </div>
+            </div>
             </div>
         </div>
         <div class="items">
@@ -38,6 +75,16 @@
             <div class="descricao">
                 <h2 class="barberTitle">Barber Name</h2>
                 <p class="adress">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem quasi saepe. </p>
+            <div class="rodape">    
+                <div class="classificacao">
+                    <img src="/Images/star.png" class="icon-star" value="estrela" name="ëstrela">
+                    <label for="estrela">4,9</label>
+                </div>
+                <div class="distancia">
+                    <img src="/Images/localizacao.png" name="localiza" class="icon-localizacao">
+                    <label for="localiza" class="text-localiza">2,4 KM</label>
+                </div>
+            </div>
             </div>
             
         </div>
@@ -46,6 +93,16 @@
             <div class="descricao">
                 <h2 class="barberTitle">Barber Name</h2>
                 <p class="adress">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem quasi saepe. </p>
+            <div class="rodape">    
+                <div class="classificacao">
+                    <img src="/Images/star.png" class="icon-star" value="estrela" name="ëstrela">
+                    <label for="estrela">4,9</label>
+                </div>
+                <div class="distancia">
+                    <img src="/Images/localizacao.png" name="localiza" class="icon-localizacao">
+                    <label for="localiza" class="text-localiza">2,4 KM</label>
+                </div>
+            </div>
             </div>
             
         </div>
@@ -54,8 +111,63 @@
             <div class="descricao">
                 <h2 class="barberTitle">Barber Name</h2>
                 <p class="adress">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem quasi saepe. </p>
+            <div class="rodape">    
+                <div class="classificacao">
+                    <img src="/Images/star.png" class="icon-star" value="estrela" name="ëstrela">
+                    <label for="estrela">4,9</label>
+                </div>
+                <div class="distancia">
+                    <img src="/Images/localizacao.png" name="localiza" class="icon-localizacao">
+                    <label for="localiza" class="text-localiza">2,4 KM</label>
+                </div>
+            </div>
             </div>
             
+        </div>
+
+        <div class="items">
+            <img class="imgLogo" src="/Images/barberlogo1.jpeg">
+            <div class="descricao">
+                <h2 class="barberTitle">Barber Name</h2>
+                <p class="adress">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem quasi saepe. </p>
+            <div class="rodape">    
+                <div class="classificacao">
+                    <img src="/Images/star.png" class="icon-star" value="estrela" name="ëstrela">
+                    <label for="estrela">4,9</label>
+                </div>
+                <div class="distancia">
+                    <img src="/Images/localizacao.png" name="localiza" class="icon-localizacao">
+                    <label for="localiza" class="text-localiza">2,4 KM</label>
+                </div>
+            </div>
+            </div>
+            
+        </div>
+
+        <div class="items">
+            <img class="imgLogo" src="/Images/barberlogo1.jpeg">
+            <div class="descricao">
+                <h2 class="barberTitle">Barber Name</h2>
+                <p class="adress">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem quasi saepe. </p>
+            <div class="rodape">    
+                <div class="classificacao">
+                    <img src="/Images/star.png" class="icon-star" value="estrela" name="estrela">
+                    <label for="estrela">4,9</label>
+                </div>
+                <div class="distancia">
+                    <img src="/Images/localizacao.png" name="localiza" class="icon-localizacao">
+                    <label for="localiza" class="text-localiza">2,4 KM</label>
+                </div>
+            </div>
+            </div>
+            
+        </div>
+
+        <div class="detalhes">
+
+        </div>
+        <div class="botao">
+            <button id="bt"> Cadastrar </button>
         </div>
     </div>
 </body>

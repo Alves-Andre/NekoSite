@@ -1,4 +1,1 @@
-function sumirtexto (){
-    elemento = document.getElementById("campobusca")
-    elemento.value = ""
-};
+document.getElementsByClassName('');
