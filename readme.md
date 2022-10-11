@@ -1,4 +1,4 @@
-<style> 
+<style type="text/css"> 
 .logos {
     width:50px;
     height:50px;
@@ -9,7 +9,7 @@
 }
 </style>
 <h1 align="center"> Neko </h1>
-<img align="center" id="neko" src="images/Logos/new%20logo.png" alt="Neko - Logo" width='200px'>
+<img id="neko" src="images/Logos/new%20logo.png" alt="Neko - Logo" width='200px'>
 <br>
 <br>
 <h2 align="left"> Sobre o Projeto</h2>
