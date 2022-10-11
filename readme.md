@@ -2,11 +2,11 @@
 .logos {
     width:50px;
     height:50px;
-};
+}
 #neko {
     margin-left: 50%;
     transform: TranslateX(-50%);
-};
+}
 </style>
 <h1 align="center"> Neko </h1>
 <img align="center" id="neko" src="images/Logos/new%20logo.png" alt="Neko - Logo" width='200px'>
