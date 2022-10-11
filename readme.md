@@ -98,9 +98,11 @@ Em cada alteração que compromete um agendamento realizada por alguma das parte
 </li>
 
 </ul>
+<br>
 
 <h2> Database </h2>
 <br>
+
 <a href="https://github.com/Alves-Andre/NekoSite/blob/main/Database/Modelo%20Lógico.png"> Modelo Lógico </a>
 <br>
 <a href="https://github.com/Alves-Andre/NekoSite/blob/main/Database/database.sql"> Arquivo SQL </a>
