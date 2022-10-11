@@ -17,7 +17,10 @@ create table barbeiro (
   CONSTRAINT barbeiroid_pk PRIMARY key (id)
 );
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b5341114833634246e18bb872e4f6a725a8fdaab
 create table endereco (
   id INTEGER NOT NULL,
   cep INTEGER,

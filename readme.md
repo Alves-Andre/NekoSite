@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <style> 
 .logos {
     width:40px;
@@ -5,6 +6,8 @@
 }
 </style>
 
+=======
+>>>>>>> b5341114833634246e18bb872e4f6a725a8fdaab
 <h1 align="center"> Neko </h1>
 <img align="center" src="images/Logos/new%20logo.png" alt="Neko - Logo" width='200px'>
 <br>
@@ -21,6 +24,7 @@ Nós fizemos uma pesquisa de campo com as aplicações já consolidadas no merca
 
 <br>
 <h2>Ferramentas utilizadas</h2>
+<<<<<<< HEAD
 <br><br>
 <img class="logos" src="Images/Logos%20Ferramentas/vscode.png" alt="Logo VS Code"> - Editor de código-fonte;
 <br><br>
@@ -41,6 +45,28 @@ Nós fizemos uma pesquisa de campo com as aplicações já consolidadas no merca
 <img class="logos" src="Images/Logos%20Ferramentas/drawio.png" alt="Logo Draw.io"> - O diagrams.net é um software de desenho gráfico multiplataforma gratuito e de código aberto;
 <br><br>
 <img class="logos" src="Images/Logos%20Ferramentas/lucidchart.png" alt="Logo LucidChart"> - O Lucidchart é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas e melhorar processos, sistemas e estruturas organizacionais;
+=======
+<br>
+<img src="" alt="Logo VS Code"> - Editor de código-fonte;
+<br>
+<img src="" alt="Logo Git Hub"> - Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git;
+<br>
+<img src="" alt="Logo HTML5"> - Linguagem de marcação para desenvolvimento WEB;
+<br>
+<img src="" alt="Logo CSS3"> - Linguagem de desígner gráfico para estilizar páginas HTML;
+<br>
+<img src="" alt="Logo Java Script"> - Linguagem de Script usada para realizar funcionalidades dentro de um desenvolvimento WEB;
+<br>
+<img src="" alt="Logo PostgreSql"> - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto;
+<br>
+<img src="" alt="Logo Firebase"> - O Firebase é um conjunto de serviços de hospedagem para qualquer tipo de aplicativo;
+<br>
+<img src="" alt="Logo Figma"> - Figma é um editor gráfico de vetor e prototipagem de projetos de design tanto WEB quanto Mobile;
+<br>
+<img src="" alt="Logo Draw.io"> - O diagrams.net é um software de desenho gráfico multiplataforma gratuito e de código aberto;
+<br>
+<img src="" alt="Logo PostgreSql"> - O Lucidchart é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas e melhorar processos, sistemas e estruturas organizacionais;
+>>>>>>> b5341114833634246e18bb872e4f6a725a8fdaab
 <br>
 <br>
 <h2>Funcionalidades</h2>
@@ -97,6 +123,7 @@ O usuário “Prestador de serviços” poderá criar, editar e excluir serviço
 Em cada alteração que compromete um agendamento realizada por alguma das partes envolvidas, acontecerá um envio de notificação para as partes afetadas.
 </li>
 
+<<<<<<< HEAD
 </ul>
 <br>
 
@@ -106,3 +133,6 @@ Em cada alteração que compromete um agendamento realizada por alguma das parte
 <a href="https://github.com/Alves-Andre/NekoSite/blob/main/Database/Modelo%20Lógico.png"> Modelo Lógico </a>
 <br>
 <a href="https://github.com/Alves-Andre/NekoSite/blob/main/Database/database.sql"> Arquivo SQL </a>
+=======
+</ul>
+>>>>>>> b5341114833634246e18bb872e4f6a725a8fdaab
